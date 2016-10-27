@@ -1,18 +1,15 @@
 University,Canton
 Université de Genève - GE,GE
-"""NPO (Biblioth., Museen, Verwalt.) - NPO"","
 Universität Basel - BS,BS
 Université de Fribourg - FR,FR
 Universität Zürich - ZH,ZH
 Université de Lausanne - LA,VD
 Universität Bern - BE,BE
-"""Eidg. Forschungsanstalt für Wald,Schnee,Land - WSL"","
+"""Eidg. Forschungsanstalt für Wald,Schnee,Land - WSL"","ZH
 Université de Neuchâtel - NE,NE
 ETH Zürich - ETHZ,ZH
 Inst. de Hautes Etudes Internat. et du Dév - IHEID,GE
 Universität St. Gallen - SG,SG
-Weitere Institute - FINST,
-Firmen/Privatwirtschaft - FP,
 Pädagogische Hochschule Graubünden - PHGR,GR
 EPF Lausanne - EPFL,VD
 Pädagogische Hochschule Zürich - PHZFH,ZH
@@ -25,20 +22,19 @@ Paul Scherrer Institut - PSI,AG
 Pädagogische Hochschule St. Gallen - PHSG,SG
 Eidg. Anstalt für Wasserversorgung - EAWAG,ZH
 Eidg. Material und Prüfungsanstalt - EMPA,ZH
-Physikal.-Meteorolog. Observatorium Davos - PMOD,
+Physikal.-Meteorolog. Observatorium Davos - PMOD,GR
 Berner Fachhochschule - BFH,BE
-Swiss Center for Electronics and Microtech. - CSEM,
-Weitere Spitäler - ASPIT,
-AO Research Institute - AORI,
+Swiss Center for Electronics and Microtech. - CSEM,NE
+AO Research Institute - AORI,GR
 Allergie- und Asthmaforschung - SIAF,GR
 Forschungsinstitut für biologischen Landbau - FIBL,HE
 Friedrich Miescher Institute - FMI,BS
 Kantonsspital St. Gallen - KSPSG,SG
-Forschungsanstalten Agroscope - AGS,
+Forschungsanstalten Agroscope - AGS,BE
 Ente Ospedaliero Cantonale - EOC,TI
 Inst. universit. romand de Santé au Travail - IST,VD
 Eidg. Hochschulinstitut für Berufsbildung - EHB,BE
-Zürcher Fachhochschule (ohne PH) - ZFH,
+Zürcher Fachhochschule (ohne PH) - ZFH,ZH
 Università della Svizzera italiana - USI,TI
 Institut für Kulturforschung Graubünden - IKG,GR
 Fachhochschule Nordwestschweiz (ohne PH) - FHNW,SO
@@ -49,29 +45,26 @@ Pädagogische Hochschule Bern - PHBern,BE
 Institut Universitaire Kurt Bösch - IUKB,VS
 Schweizer Paraplegiker Forschung - SPF,LU
 Hochschule Luzern - HSLU,LU
-Forschungsinstitut für Opthalmologie - IRO,
+Forschungsinstitut für Opthalmologie - IRO,VS
 Haute école pédagogique du canton de Vaud - HEPL,VD
 Fachhochschule Ostschweiz - FHO,SG
 Inst. Suisse de Spéléologie et Karstologie - ISSKA,NE
 Swiss Institute of Bioinformatics - SIB,GE
 """Haute école pédagogique BE, JU, NE - HEPBEJUNE"",JU"
 Pädagogische Hochschule Luzern - PHLU,LU
-Forschungskommission SAGW,
-Istituto Svizzero di Roma - ISR,Lazio
-Pädag. Hochschule Tessin (Teilschule SUPSI) - ASP,
+Pädag. Hochschule Tessin (Teilschule SUPSI) - ASP,AG
 Haute école pédagogique fribourgeoise - HEPFR,FR
 Pädagogische Hochschule Schwyz - PHSZ,SZ
 Pädagogische Hochschule Thurgau - PHTG,TG
 Biotechnologie Institut Thurgau - BITG,TG
 Fachhochschule Kalaidos - FHKD,ZH
-Schweizer Kompetenzzentrum Sozialwissensch. - FORS,
-Pädagogische Hochschule Wallis - PHVS,
+Pädagogische Hochschule Wallis - PHVS,VS
 Schweiz. Hochschule für Logopädie Rorschach - SHLR,SG
 Pädagogische Hochschule Zug - PHZG,ZG
 Instituto Ricerche Solari Locarno - IRSOL,TI
 Franklin University Switzerland - FUS,TI
 Pädagogische Hochschule Schaffhausen - PHSH,SH
 Pädagogische Hochschule Nordwestschweiz - PHFHNW,BL
-Staatsunabh. Theologische Hochschule Basel - STHB,
+Staatsunabh. Theologische Hochschule Basel - STHB,BS
 Facoltà di Teologia di Lugano - FTL,TI
 Fernfachhochschule Schweiz (Mitglied SUPSI) - FFHS,VS
