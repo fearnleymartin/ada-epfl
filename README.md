@@ -1,3 +1,4 @@
+
 # ada-epfl
 
 Browse my Data Science projects for ADA class at EPFL
@@ -10,6 +11,7 @@ Scraping data from the web and searching for statistical differences between dif
 
 ## 3) Interactive viz
 Interactive map showing the distrbution of money Swiss universities receive by canton
+To view the html map use: http://nbviewer.jupyter.org/
 
 ## 4) Applied Machine Learning
 Using machine learning to detect racial bias in footbal games
