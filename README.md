@@ -1,7 +1,7 @@
 
 # ada-epfl
 
-Browse my Data Science projects for ADA class at EPFL
+Browse my team's Data Science projects for ADA class at EPFL (Fearnley Martin, Marie Drieghe, Clement Germanicus)
 
 ## 1) Pandas and Data Wrangling
 Introduction to pandas and learning to clean and process data
